@@ -33,5 +33,5 @@ lista = ["seba", "miguel", "eusebio", "miranda"]
 
 elemento_eliminado = lista.pop(1)
 
-print(elemento_eliminado())
+print(elemento_eliminado)
 
